@@ -1,1 +1,2 @@
 hello class
+my name is major
